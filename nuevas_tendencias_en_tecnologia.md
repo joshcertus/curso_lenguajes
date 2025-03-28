@@ -1,0 +1,119 @@
+## MARTES 25/03/25
+
+# NUEVAS TENDENCIAS EN TECNOLOGÍA
+--------------------------------
+
+* 1 .AI manejo de LLM , desarrollar AI mas grandes y pequeños que se puedan usaar en local offline , y la mejora de servicios en la nube para poder entrenar la AI.
+tambien en el area de la medicina , ayudando a profesionales o poder descartar y encontrar nuevos patrones en su area de especialidad.
+desarrollar herramientas para que el uso de la AI sea mucho mas sencillos para los profesionales y su productividad sea superior al que tienen actualmente .
+* 2. GREEN TECH , es Tecnología cuyo uso tiene como finalidad mitigar o revertir los efectos de la actividad humana sobre el medio ambiente.
+* 3 . en el area de la medicina tambien 
+
+# Introduccion a la Investigacion
+
+### profesora (luisa herlinda cano barragan)
+
+- buscar imformacion que tenga un respaldo cientifico 
+y que se pueda corroborar que sea feaciente o cierta 
+la imformacion que investigo .
+- corroborar las fuentes de imformacion 
+
+* haber una brecha de informacion , que se podria hacer '? generar uno mismo fuentes de imformacion ?
+
+- desarrollar el metodo cientifico
+estblecer una muestra 
+levantamiento de cuestionario
+construir un mapa para poder desarrollar 
+el muestreo de la informacion .
+
+
+construir mi marco teorico , en base a la imformacion consultada 
+de las fuentes .
+
+ ### ¿cual consideras es la importancia de revisar la literatura cientifica de manewr exhaustiva antes de iniciar un proyecto ?
+
+ ## FUNDAMENTACION DE REVISION DE LA LITERATURA
+
+ - definicion : es un proceso sistematico para recopilar y analizar imformacion de fuentes bibliograficas relevantes para un tema especifico.
+
+ * importancia : Permite comprender el estado actual del conocimiento ,identificar  lagunas ( brechas de imformacion ) de investigacion y establecer el marco teorico para un nuevo estudio.
+
+ ## Identificacion de fuentes relevantes 
+
+ ### que son las fuentes relevantes ?
+ - son aquellos materiales ( libros,articulos .documentos,etc)
+ que aportan imformacion confiable y actualizada sobre un tema especifico, y que son peertinentes para los objetivos de investigacion.
+
+ * demostrar el objetivo del porque busque mi imformacion y que quiero 
+ demostrar o describir con la imfromacion investigada.
+
+ ### porque son importantes?
+
+ - funamentan tus argumentos : las fuentes relevantes respaldan tus ideas y concluciones otorgandoles mayor credibibilidad.
+ - amplian tu conocimiento te permiten explorar diferentes perspectivas y profundizar en el tema .
+ - evita el plagio al dar correctamente tus fuentes ,evitas la apropiacion indebida de ideas ajenas .
+ (siempre tenemos que citar las fuentes de imformacion o ideas 
+ de lo que estamos investigando , sino se deduce que lo que dices es de tu autoria y puede quedar como plagio ). podemos citar en formato APA 7.
+
+ ### identificacion de las fuentes bibliograficas 
+
+ * Libros : ofrecen una vision amplia y profunda del tema
+
+ * Articulos cientificos : presentan invvestigaciones originales y analis de datos .
+ * Tesis : proporcionan estudios eshaustivos sobre un tema especifico . solo se consideran aquellas que corresponden a postgrados y doctorados ?
+
+- fuentes : scopus , google academy sciElo, web od science.
+
+#### para poder buscar necesito :
+
+- palabras clave especificas + conectores boleanos (y,o,no | and ,or,not)
+- filtros por fecha , tipo de publicacion e idioma
+- analisis  de las referencias bibliograficas de los articulos relevantes
+
+### herramientas para ayudarnos a manejar la imformacion :
+
+* Mendeley
+* Zotero
+* EndNote
+
+### presentacion de las lineas de investigacion :
+
+ - gestion del talento humano 
+ - desarrollo de software 
+ - tecnologias emergentes 
+ - sostenibilidad
+ - gestion de medios digitales 
+ - comportamiento del consumidor 
+
+/////////////////////////
+- ecuacion de busqueda
+- mejores bases de datos 
+- como clasificar informacion ( filtrar )
+- metodologia prisma 
+//////////////////////////
+
+### parafraseo
+
+* se recomienda usar :
+
+ - sinonimos 
+ - cambiar el orden del as palabras 
+ - acortar o simplificar las palabras 
+ - amplicar frases e incrementar  la imformacion
+
+
+## importancia de correcta citacion y la etica
+
+- una cita bibliografica es una referencia concisa que se incluye en el texto de un documento para identificar la fuente de una idea.
+
+
+
+
+
+luminance 
+harvey
+notebookLM
+learning studio
+elevenlabs
+
+AI abogados
